@@ -1,0 +1,29 @@
+# FVM Version Cache
+.fvm/
+
+# windsurf rules
+.windsurfrules
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env.*
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# General
+*.log
+*.swp
